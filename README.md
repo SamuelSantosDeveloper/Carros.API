@@ -4,5 +4,5 @@ Segue a API conforme solicitado!
 
 Informações importantes:
 
-As senhas possuem restrições como de no mínimo 10 a 20 caracteres e a mesma deve conter valores alfanúméricos.
+As senhas possuem restrições como de no mínimo 10 e máximo 20 caracteres e a mesma deve conter valores alfanúméricos.
 
