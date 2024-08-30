@@ -1,10 +1,9 @@
 # Carros.API
+API construída em C#, .NET -> API para cadastro de carros, utilizei Token.
 
 O PROJETO ESTÁ NA BRANCH MASTER.
 
 https://github.com/SamuelSantosDeveloper/Carros.API/tree/master
-
-Segue a API conforme solicitado!
 
 Informações importantes:
 
